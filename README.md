@@ -69,6 +69,16 @@ Tendríamos una nueva cantidad de almacenamiento de energía por lo cual tendrí
 El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna al aplicar ambas primero una y luego otra, sobre una misma resistencia
 El valor eficaz de una corriente alterna, como aquel valor que llevado a corriente continua nos produce los mismos efectos caloríficos. Es un valor característico, que por otra parte es el que proporcionan los instrumentos de medida, ya sean analógicos o digitales
 
+## **4.1 Tablas**
+
+![image](https://user-images.githubusercontent.com/105742149/184953803-8633f249-e6e7-44d0-a1ba-54d762137348.png)
+
+*Tabla 1. Mediciones del circuito de la figura 1.*
+
+![image](https://user-images.githubusercontent.com/105742149/184953913-4b4a3b46-6098-44bb-b9b0-36f7ea5a7909.png)
+
+*Tabla 2. Mediciones del circuito de la figura 2.*
+
 ## **Concluciones**
 
 * Si la frecuencia de trabajo del generador es igual a 0 Hz se concluye correspondiente a DC.
