@@ -11,7 +11,7 @@
 
 ## **7.1. Objetivos de la práctica**
 
-### **Objetivo General**
+### **Objetivo General.**
 
 * Revisar la conducta de la bobina y el capacitor en diferentes frecuencias 0, 10, 50, 100, 500, 1000 Hz. 
 
