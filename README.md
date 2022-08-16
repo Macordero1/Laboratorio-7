@@ -71,11 +71,11 @@ El valor eficaz de una corriente alterna, como aquel valor que llevado a corrien
 
 ## **4.1 Tablas**
 
-![image](https://user-images.githubusercontent.com/105742149/184953803-8633f249-e6e7-44d0-a1ba-54d762137348.png)
+![image](https://user-images.githubusercontent.com/105742149/184955539-6abd2e67-82ef-4f87-a752-bd5b5acdbea5.png)
 
 *Tabla 1. Mediciones del circuito de la figura 1.*
 
-![image](https://user-images.githubusercontent.com/105742149/184953913-4b4a3b46-6098-44bb-b9b0-36f7ea5a7909.png)
+![image](https://user-images.githubusercontent.com/105742149/184955566-2af8772d-5d87-453e-8e55-1d34915da17d.png)
 
 *Tabla 2. Mediciones del circuito de la figura 2.*
 
