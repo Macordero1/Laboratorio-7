@@ -30,14 +30,36 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/184755412-b06a6d0c-e148-4d73-b5a4-e17359fedfd5.png)
 
-## **7.5. Procedimiento**
+## **7.4. Procedimiento**
 
 ![image](https://user-images.githubusercontent.com/105742149/184755461-58b6a5d1-58e2-4393-8738-92873a5e0ab5.png)
 
-**7.5.1. Arme el circuito que se muestra en la figura 1.**
+**7.4.1. Arme el circuito que se muestra en la figura 1.**
 
 ![image](https://user-images.githubusercontent.com/105742149/184755718-d59ab9c5-213b-4112-a43c-212783b5e3f0.png)
 
 *Circuito Armado*
 
-**6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.**
+![image](https://user-images.githubusercontent.com/105742149/184756001-ffa74afa-b461-4aea-bfd6-84bd5e9fd3ef.png)
+
+**7.4.2. Construya el circuito mostrado en la Figura 2.**
+
+![image](https://user-images.githubusercontent.com/105742149/184756653-e24b63ed-e5f4-454b-986a-23217a84868a.png)
+
+## **7.5 Análisis de resultados**
+
+**Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
+
+## **7.6 Preguntas**
+
+**1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
+
+**2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
+
+**3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
+
+**4.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+## **Concluciones**
+
+## **Bibliografia**
