@@ -36,7 +36,7 @@
 
 **7.4.1. Arme el circuito que se muestra en la figura 1.**
 
-![image](https://user-images.githubusercontent.com/105742149/184755718-d59ab9c5-213b-4112-a43c-212783b5e3f0.png)
+![image](https://user-images.githubusercontent.com/105742149/184768985-d2fdc92c-ad30-4b95-9047-15a723e5d6de.png)
 
 *Circuito Armado*
 
@@ -54,11 +54,20 @@
 
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
+No existe un voltaje inducido cuando por un inductor circula una corriente directa además que ocurre una caída de voltaje ocasionada por el devanado de la bobina, ocasionado que la inductancia se presente un corte ante la corriente directa su valor de frecuencia es cero Hz  
+
 **2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
+
+Un capacitor deja pasar la corriente alterna, pero con una cierta cantidad de oposición, que tiene el nombre de reactancia capacitiva, que depende de la frecuencia de la corriente alterna mientras que un inductor deja pasar corriente alterna con una mayor cantidad de oposición llamada reactancia inductiva que depende de la frecuencia de la corriente alterna.
 
 **3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
+Tendríamos una nueva cantidad de almacenamiento de energía por lo cual tendríamos un valor pico máximo en un intervalo más prolongado ya que se utiliza nuevos valores picos.
+
 **4.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna al aplicar ambas primero una y luego otra, sobre una misma resistencia
+El valor eficaz de una corriente alterna, como aquel valor que llevado a corriente continua nos produce los mismos efectos caloríficos. Es un valor característico, que por otra parte es el que proporcionan los instrumentos de medida, ya sean analógicos o digitales
 
 ## **Concluciones**
 
