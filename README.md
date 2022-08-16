@@ -50,6 +50,50 @@
 
 **Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
 
+**Figura 1**
+
+![image](https://user-images.githubusercontent.com/105742149/184956910-b24ca44f-6c4e-4957-ae5d-ddf70de74796.png)
+
+0Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957131-bd33f0e2-1106-44b3-a4ad-d234180abc0f.png)
+
+10Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957243-43573b2d-9923-4b7d-ba00-a124d377fdd6.png)
+
+50Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957326-a6e0b1b4-7d89-40c8-af3c-2bd4fee88eaa.png)
+
+100Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957406-58494b5e-c147-4401-8599-2bd1e0804313.png)
+
+1000Hz
+
+**Figura 2**
+
+![image](https://user-images.githubusercontent.com/105742149/184957584-7878308f-3384-450f-bda9-c17f1677f13d.png)
+
+0Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957708-e431ae9a-1f14-4e34-9beb-447b0ebc8412.png)
+
+10Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957807-2052970f-7465-4c22-a08d-47dd1159fb6a.png)
+
+50Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184957990-0997fc4c-ec68-4b55-ae9d-b393151fbeef.png)
+
+100Hz
+
+![image](https://user-images.githubusercontent.com/105742149/184958059-863ca394-c730-42e9-8133-d220c319dc43.png)
+
+1000Hz
+
 ## **7.6 Preguntas**
 
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
