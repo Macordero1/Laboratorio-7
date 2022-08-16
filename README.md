@@ -62,4 +62,10 @@
 
 ## **Concluciones**
 
+* Si la frecuencia de trabajo del generador es igual a 0 Hz se concluye correspondiente a DC.
+* En el circuito RL se cumple: a más grande frecuencia el Vac se incrementa, a más grande frecuencia el Iac reduce, a más grande frecuencia el Vp se incrementa. 
+* Una vez que a un circuito se le aplica un voltaje de ca que cambia con la época, de la misma forma que un voltaje sinusoidal, las leyes de circuito y las fórmulas de potencia que se aprendieron con anterioridad todavía son aplicables. La ley de Ohm, las leyes de Kirchhoff, y las fórmulas de potencia se usan a circuitos de ca del mismo modo que se usan a circuitos de cd. 
+
 ## **Bibliografia**
+
+Floyd, T (2007). Principios de circuitos eléctricos (8va ed), México DF, México: Pearson Educación.
